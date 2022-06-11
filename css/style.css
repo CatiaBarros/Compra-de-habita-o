@@ -7,7 +7,7 @@ html {
   background-color: black;
   font-family: "Lato";
   font-size: 22px;
-  background-image: url("../img/Capa5.jpg");
+  background-image: url("/img/Capa5.jpg");
   /* background-image: url("../img/paginainicial"); */
   -webkit-background-size: cover, fixed;
   -moz-background-size: cover;
